@@ -1,3 +1,0 @@
-a$ $$ $ $_$
-
-// Erro: Identificador invalido: a$
